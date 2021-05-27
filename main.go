@@ -1,14 +1,16 @@
 package main
 
+// local: /Users/karenbocardo/go/src/github.com/karenbocardo/dc-final
+
 import (
 	"fmt"
 	"log"
 	"math/rand"
 	"time"
 
-	"github.com/CodersSquad/dc-final/api"
-	"github.com/CodersSquad/dc-final/controller"
-	"github.com/CodersSquad/dc-final/scheduler"
+	"github.com/karenbocardo/dc-final/api"
+	"github.com/karenbocardo/dc-final/controller"
+	"github.com/karenbocardo/dc-final/scheduler"
 )
 
 func main() {
